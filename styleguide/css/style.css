@@ -11,7 +11,7 @@ body{
 img {
     max-width: 100%;
 }
-.home .container {
+.home {
     background: linear-gradient(180deg, #00C5FF 0%, #B4C873 100%) no-repeat;
     color: #FFF;
     height: 100vh;
